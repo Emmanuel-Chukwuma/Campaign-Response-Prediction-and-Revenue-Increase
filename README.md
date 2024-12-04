@@ -25,12 +25,8 @@ To run this project locally:
    git clone https://github.com/Emmanuel-Chukwuma/data-analysis-project.git
    cd data-analysis-project
 2. Install required packages:
-  ```bash
-  pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 3. Launch the Jupyter Notebook:
-  ```bash
-  jupyter notebook code.ipynb
-
-  
-
-
+   ```bash
+   jupyter notebook code.ipynb
