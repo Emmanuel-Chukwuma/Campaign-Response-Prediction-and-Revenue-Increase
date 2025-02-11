@@ -24,7 +24,7 @@ To run this project locally:
    ```bash
    git clone https://github.com/your-username/data-analysis-project.git
    cd data-analysis-project
-   Replace your-username with your GitHub username if forking this project.
+Replace your-username with your GitHub username if forking this project.
 
 2. Install required packages:
    ```bash
